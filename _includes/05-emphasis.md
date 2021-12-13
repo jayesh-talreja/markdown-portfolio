@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*This is my first portfolio*
+_Thank you for contribution_
+
+**So lets bring people together**
+__Good Night__
+
+_You **can** combine them_
